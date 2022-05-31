@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body::-webkit-scrollbar {
+  width: 0.5em;
+  height: 0em;
+}
+body::-webkit-scrollbar-track {
+    box-shadow: inset 2px 0px 6px bisque;
+    height: 100vh;
+    border-radius:6px;
+}
+body::-webkit-scrollbar-thumb {
+    background-image :linear-gradient(225deg , rgb(6, 255, 201) 30%,rgba(0, 170, 212, 0.76) 40%,#e70c84d3 80%);
+    box-shadow: inset 2px 1px 5px  rgb(163, 171, 173);
+  /* outline: inset 5px solid #ffffff; */
+  border-radius:6px;
+  min-height:50px  ;
+  max-height:100px  ;
+
+}
+body::-webkit-scrollbar-button {
+  height:10px;
+  display:inline-block;
+}

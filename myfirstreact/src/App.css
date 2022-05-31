@@ -1,0 +1,8 @@
+.app_class{
+    background-color: rgb(211, 207, 207);
+    margin: 10px 10px;
+    padding: 2px 8px;
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+    box-sizing: border-box;
+}

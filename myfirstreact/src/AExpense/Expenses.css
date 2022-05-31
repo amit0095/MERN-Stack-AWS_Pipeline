@@ -1,0 +1,20 @@
+.expense_data{
+    display: flex;
+    font-family: " Haettenschweiler, 'Arial Narrow Bold', sans-serif";
+    color: rgba(155, 39, 39, 0.993);
+    background: rgba(187, 93, 187, 0.993);
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 50%;
+    border-radius: 15px;
+    padding: 10px 8px;
+    margin: 10px 8px;
+    box-shadow: 3px 2px 3px 2px rgb(98, 207, 47);
+
+}
+.expense_data:nth-child(1){
+    padding: 10px 10px;
+    margin: 10px 10px;
+}

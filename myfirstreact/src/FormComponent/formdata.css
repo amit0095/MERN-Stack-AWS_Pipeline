@@ -1,0 +1,47 @@
+
+.formdiv{
+    
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-wrap: wrap;
+    background: rgb(31, 25, 32);
+    border-radius: 12px;
+    width: 50%;
+    height: 85%;
+    /* overflow: hidden; */
+    padding: 5px 5px;
+    margin: 15px 15px;
+    background: #000;
+}
+.formdiv:nth-child(n)  div    {
+    margin: 15px 15px;
+    color: rgb(172, 184, 161);
+    
+}
+
+input{
+    padding: 1px 1px;
+    margin: 3px 3px;
+    outline: none;
+}
+.formdiv button{
+    position: relative;
+    left:4em;
+    margin: -10px 2em 10px 1px;
+    background: rgb(92, 4, 100);
+    border: none;
+    padding: 5px 5px;
+    border-radius: 2px;
+    color: rgb(164, 176, 185);
+    border-radius: 5px 5px;
+    align-self:flex-end ;
+}
+.formdiv button:active{
+    color: aliceblue;
+    background: rgb(134, 5, 146);
+}
+.formdiv div {
+    padding: 2px ;
+    display: inline;
+}

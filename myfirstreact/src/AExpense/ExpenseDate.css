@@ -1,0 +1,10 @@
+.expdateclass{
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(30, 16, 70);
+    background: rgba(235, 230, 236, 0.555);
+    padding: 10px 10px;
+}

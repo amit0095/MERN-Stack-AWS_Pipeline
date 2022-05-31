@@ -1,0 +1,26 @@
+2022-04-22	11:09:41	ffbda408-6edc-4589-9fd6-c3c00d9a5576	/		https://www.google.co.in		/		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:18:30	43476bec-af77-4259-9b79-c4fc3e1a4275	/		undefined		/		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:18:30	21c5aa2e-be37-4430-ba06-e99f6ce0c8ad	/favicon.ico		undefined		/favicon.ico		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:21:04	bba31764-76fe-4845-81d2-96b90802b2ea	/		undefined		/		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:21:04	2ddced0a-1a8f-4187-8582-9c22d4bddb65	/favicon.ico		undefined		/favicon.ico		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:21:25	13d77e2e-43a5-4f93-ad7a-d17b2017a5af	/		undefined		/		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:21:25	fd5f7d5c-8271-46d1-a69a-d9ceeb1858fa	/favicon.ico		undefined		/favicon.ico		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:21:51	e815c659-0f59-4ad9-afb1-0d95a6c7c482	/		undefined		/		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:21:51	17d3341f-7f74-4aad-a3aa-a66306766c91	/favicon.ico		undefined		/favicon.ico		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:23:35	449c7895-0aa0-408f-bab2-9a266fb2576b	/		undefined		/		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:23:36	1f3d5a2c-20e5-4eb5-b2bf-356dfe09aaa1	/favicon.ico		undefined		/favicon.ico		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	11:49:22	268d1f7f-4813-431f-81b3-bc299129c0fc	/favicon.ico		undefined		/favicon.ico		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	15:12:52	604cb36c-6605-47fb-b684-bb0aa0d3cff8	/		undefined		/		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	15:12:53	dd303a32-82a3-4321-979e-72b7857133e4	/favicon.ico		undefined		/favicon.ico		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-22	15:16:09	d9e0a8e9-dc0b-4657-937b-e17c369ddb03	/		https://www.youtube.com		/		Client Request Failed Due To Error		Not Allowed by CORS
+2022-04-29	12:50:44	64cb11fe-2b33-47fe-bdf4-218c0fde2176	/getdata		http://localhost:3000		/getdata		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-04-29	12:50:45	cc671603-da50-45af-ba6c-db32028ca3ce	/getdata		http://localhost:3000		/getdata		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-04-29	12:50:45	8a1abb30-084e-48b6-9b0e-821b0555ff60	/getdata		http://localhost:3000		/getdata		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-04-29	12:53:26	30a02c2e-8920-4ff3-88bc-9ffba07a5a80	/getdata		http://localhost:3000		/getdata		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-04-29	12:53:26	337216a0-68c2-4acd-8b9d-d4623e3893db	/getdata		http://localhost:3000		/getdata		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-04-29	13:32:43	f9e63a8a-60d4-4761-8a30-aa3bc2777f95	/getdata		http://localhost:3000		/getdata		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-04-29	13:32:43	90a7a20e-0af8-41a7-b6e4-e9364c4fe710	/getdata		http://localhost:3000		/getdata		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-04-29	13:38:56	acf779b3-2e2c-4c13-b09d-e1b8e8d2a9e1	/fetchApi		http://localhost:3000		/fetchApi		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-05-10	18:41:21	eb406039-1a59-42ce-97ab-14bdbe933074	/signin		http://localhost:3000		/signin		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-05-10	18:42:44	6fadf258-c1d9-4ad3-af2c-b9055d6a7732	/signin		http://localhost:3000		/signin		Client Request Failed Due To TypeError		Cannot set properties of undefined (setting 'access-control-allow-credentials')
+2022-05-10	19:16:19	5d30994b-beeb-4354-816f-9b2590b0511c	/signin		http://localhost:3000		/signin		Client Request Failed Due To TypeError		res.headers is not a function

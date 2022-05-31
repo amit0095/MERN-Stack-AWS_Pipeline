@@ -1,0 +1,32 @@
+version: 0.0
+os: linux
+files:
+  - source: /package.json
+    destination: ./
+    # destination: /opt/codedeploy-agent/deployment-root/969e26a1-cbbf-49de-bf75-aed951c74386/d-OGLP416NG/deployment-archive
+    # destination:    /var/www/html/
+hooks:
+  ApplicationStop:
+    - location: scripts/stop_server.sh
+      timeout: 300
+      runas: root
+
+  AfterInstall:
+    - location: scripts/after_install.sh
+      timeout: 300
+      runas: root
+
+  BeforeInstall:
+    - location: scripts/install_dependencies.sh
+      timeout: 300
+      runas: root
+
+  ApplicationStart:
+    - location: scripts/start_server.sh
+      timeout: 300
+      runas: root
+
+  # ValidateService:
+  #   - location: scripts/validate_service.sh
+  #     timeout: 300
+  
