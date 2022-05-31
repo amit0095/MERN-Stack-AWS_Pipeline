@@ -10,4 +10,5 @@ router.get('/getrootdata',authorization,verifyrole(['user','admin','root']), asy
     console.log(`this is rootuserinfo ${rootuserinfo} and alluserinfo ${alluserinfo}`);
     res.status(200).send({activeStatus:true,msg:'token authentiation succesfull',userinfo:{rootuserinfo,alluserinfo}})
 })
+
 module.exports=router
